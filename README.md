@@ -19,13 +19,14 @@ This project has been developed on WBCProg. You can acces to it launching "MIC44
 You can find "MIC448-PC(EN)" executable in the folder "mi488e-pc_v125_en" or download it from http://www.wobit.com.pl/produkt/10594/kontrolery-ruchu/mic488/
  
  
-USER MANUAL : 
+# USER MANUAL :
 Once the system powered, the system wait for the operator to press the start button. It will be fully automomous, waiting for a board to be available, picking it up.
 Then go to the next machine location, waiting for it to be ready to accept a new board and finally going to its home position.
 The cycle will be repeated as long as there will be board available. 
  
 
-KNOWN BUGS :
+#KNOWN BUGS :
+
 --
 
 SUPPORT :
