@@ -20,17 +20,29 @@ You can find "MIC448-PC(EN)" executable in the folder "mi488e-pc_v125_en" or dow
 
 # CONNECTORS
 1 - GND
+
 2 - +24V
+
 3 - NC
+
 4 - NC
+
 5 - SMEMA POST 1
-5 - SMEMA POST 2
-5 - SMEMA POST 3
-5 - SMEMA POST 4
-5 - SMEMA PRE 1
-5 - SMEMA PRE 2
-5 - SMEMA PRE 3
-5 - SMEMA PRE 4
+
+6 - SMEMA POST 2
+
+7 - SMEMA POST 3
+
+8 - SMEMA POST 4
+
+9 - SMEMA PRE 1
+
+10- SMEMA PRE 2
+
+11- SMEMA PRE 3
+
+12- SMEMA PRE 4
+
  
 # USER MANUAL :
 Once the system powered, the system wait for the operator to press the start button. It will be fully automomous, waiting for a board to be available, picking it up.
